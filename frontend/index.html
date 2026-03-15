@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Legal AI Assistant</title>
+    <meta name="description" content="A premium AI assistant for answering Indian Law questions">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Feather Icons -->
+    <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar for Retrieved Documents -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i data-feather="book-open"></i>
+                <h2>Legal Sources</h2>
+            </div>
+            <div class="sidebar-content" id="sources-container">
+                <div class="empty-state">
+                    <p>Referenced contexts will appear here once you ask a question.</p>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Chat Interface -->
+        <main class="chat-interface">
+            <header class="chat-header">
+                <div>
+                    <h1 class="glow-text">Dharma AI</h1>
+                    <p class="subtitle">Your intelligent legal navigator</p>
+                </div>
+                <button id="toggle-sidebar" class="icon-btn mobile-only"><i data-feather="sidebar"></i></button>
+            </header>
+
+            <div class="chat-window" id="chat-window">
+                <!-- Welcome Message -->
+                <div class="message ai-message">
+                    <div class="avatar"><i data-feather="cpu"></i></div>
+                    <div class="message-content">
+                        Hello! I am an expert in the Indian legal system. You can ask me about Constitutional Law, the IPC, Family Law, or specialized acts. How can I assist you today?
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <form id="chat-form" class="glass-form">
+                    <textarea id="query-input" placeholder="Ask a legal question (e.g., 'What is Section 302 of the IPC?')" rows="1"></textarea>
+                    <button type="submit" id="send-btn" class="glow-btn">
+                        <i data-feather="send"></i>
+                    </button>
+                </form>
+                <div class="footer-note">Answers are strictly based on "Indian Law For A Common Man". Not formal legal counsel.</div>
+            </div>
+        </main>
+    </div>
+    <script src="https://unpkg.com/feather-icons" defer></script>
+    <script src="app.js" defer></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            if (typeof feather !== 'undefined') {
+                feather.replace();
+            }
+        });
+    </script>
+</body>
+</html>

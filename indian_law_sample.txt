@@ -1,0 +1,1453 @@
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+Indian Law For
+A Common Man
+All the revenue from the sales of this book will be used to provide
+Free Legal Aid and Access to Justice for the Underprivileged.
+Sree Krishna Seelam
+
+
+--- PAGE 3 ---
+Disclaimer: The information provided in this book is intended for educational and informational purposes only.
+The author has made every effort to ensure the accuracy and completeness of the content within this book at
+the time of publication. However, the author and publisher do not warrant or represent the completeness,
+accuracy, or usefulness of any information provided herein. Any reliance you place on such information is
+strictly at your own risk.
+The content of this book is not intended to be a substitute for professional advice. Always seek the advice of a
+qualified professional regarding any questions or concerns you may have pertaining to any legal, financial, or
+other matters.
+The author and publisher disclaim any responsibility for any liability, loss, or risk, personal or otherwise, which
+is incurred as a consequence, directly or indirectly, of the use and application of any of the contents of this
+book.
+Copyright Notice
+This book, titled ‘Indian Law For A Common Man’, written by the original author Sree Krishna Seelam, is
+protected under copyright laws. All rights reserved. No part of this publication may be reproduced, distributed,
+or transmitted in any form or by any means, including photocopying, recording, or other electronic or
+mechanical methods, without the prior written permission of the publisher, except in the case of brief
+quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+Any unauthorised use, reproduction, or distribution of this book's content is prohibited and may result in legal
+action.
+First Published by Wedidit Foundation 2024
+Copyright @ Sree Krishna Seelam
+All rights reserved.
+ISBN 978-93-5788-638-3
+
+
+--- PAGE 4 ---
+Indian Law For A Common Man
+3
+Heartfelt thanks to all the Law interns of wedidit.in .
+Around 677 Law interns were engaged in making this book come to
+life .
+Immense respect to our editor Divyakshara Pandey, for her pro bono
+work and brilliance in transforming a manuscript into a masterpiece .
+Deep appreciation to the future Lawmakers
+•
+Aditi Paul
+• Asma Khan
+• Asmi Kanaujia
+•
+Harshit Garg
+•
+Rutuja Joshi
+•
+Sahil Borbhuiya
+•
+Sakshi Dayma
+•
+Satya Sruthi Pakalapati
+for their extensive support .
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 5 ---
+4
+Indian Law For A Common Man
+"To master any field, you need to embrace dedication, practice
+relentlessly, seek continuous learning, accept failure as part of
+growth, and cultivate resilience."
+-
+Sree Krishna Seelam
+
+
+--- PAGE 6 ---
+Indian Law For A Common Man
+5
+CHAPTERS 1, 2, and 16 are not to be missed.
+CHAPTER 1: Why Know the Law?
+CHAPTER 2: A Quick Look at the Indian Legal System
+CHAPTER 3: Introduction to the Constitution of India
+1. The Preamble
+2. Fundamental Features of the Constitution
+3. Federal Structure: Division of Powers
+4. Amendment Process
+CHAPTER 4: Fundamental Rights and Duties
+1. Fundamental Rights
+2. Right to Equality
+3. Right to Freedom
+4. Right Against Exploitation
+5. Right to Freedom of Religion
+6. Cultural and Educational Rights
+7. Right to Constitutional Remedies
+8. Fundamental Duties
+CHAPTER 5: The Judicial System of India
+1. Structure of the Judiciary
+2. Supreme Court
+3. High Courts
+4. District Courts and Subordinate Courts
+5. Judicial Independence
+6. Public Interest Litigation (PIL)
+CHAPTER 6: Criminal Law
+1. Indian Penal Code (IPC)
+2. Code of Criminal Procedure (CrPC)
+3. Common Offences and Their Punishments
+4. Arrest and Bail
+5. Trial Process
+6. Juvenile Justice
+CHAPTER 7: Civil Law
+1. Code of Civil Procedure (CPC)
+9
+11
+14
+14
+17
+20
+23
+25
+25
+25
+28
+30
+31
+33
+35
+37
+38
+38
+39
+41
+43
+46
+48
+50
+50
+62
+66
+68
+70
+73
+76
+76
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 7 ---
+6
+Indian Law For A Common Man
+2. Civil Disputes
+3. Law of Torts - Deals with Civil Wrongs
+4. Contract Law
+5. Law of Injunctions
+CHAPTER 8: Family Law
+1. Hindu Law
+2. Muslim Law
+3. Christian Law
+4. Special Marriage Act
+5. Adoption and Guardianship
+6. Maintenance and Alimony
+CHAPTER 9 : Property Law
+1. Transfer of Property Act
+2. Types of Property
+3. Sale, Lease, and Mortgage
+4. Easements and Licenses
+5. Land Acquisition
+79
+79
+81
+83
+85
+88
+90
+92
+94
+97
+99
+100
+102
+102
+105
+107
+109
+111
+6. Succession Laws and Inheritance
+113
+CHAPTER 10 : Labour and Employment Law
+115
+1. The Industrial Disputes Act
+116
+2. The Factories Act
+118
+3. The Minimum Wages Act
+120
+4. The Payment of Wages Act
+122
+5. The Employees ' Provident Fund and Miscellaneous Provisions Act
+124
+6. The Employees ' State Insurance Act ( ESI Act)
+126
+7. The Maternity Benefit Act
+128
+8. The Contract Labour ( Regulation and Abolition ) Act
+131
+9. The Trade Unions Act
+133
+10. The Workmen's Compensation Act
+135
+CHAPTER 11 : Taxation and Finance
+1. Direct and Indirect Taxes
+2. Income Tax Act
+3. Goods and Services Tax (GST)
+4. Banking and Financial Regulations
+137
+137
+139
+141
+143
+
+
+--- PAGE 8 ---
+Indian Law For A Common Man
+7
+5. Foreign Exchange Regulations
+145
+CHAPTER 12: Consumer Protection and Rights
+148
+1. Consumer Protection Act
+148
+2. Rights of Consumers
+151
+3. Product Liability
+153
+4. Unfair Trade Practices
+5. E-Commerce Regulations
+6. Consumer Courts
+7. Mediation
+156
+158
+162
+164
+8. Remedies and Compensation
+169
+CHAPTER 13: Intellectual Property Rights
+172
+1. Patents
+172
+2. Trademarks
+3. Copyrights
+4. Designs
+5. Trade Secrets
+175
+178
+181
+184
+CHAPTER 14: Environmental Laws
+187
+1. Air (Prevention and Control of Pollution) Act
+187
+2. Water (Prevention and Control of Pollution) Act
+190
+3. Environment (Protection) Act
+192
+4. Forest (Conservation) Act
+195
+5. Wildlife (Protection) Act
+CHAPTER 15: Cyber Law in India
+197
+200
+1. Historical Background of Cyber Law
+200
+2. Cybercrime and Penalties
+202
+3. Digital Privacy and Data Protection
+203
+4. Steps to Filing a Complaint for Cybercrime in India
+205
+CHAPTER 16: How to Navigate the Legal System
+207
+1. Filling a Case and Court Procedures
+2. Finding Legal Help
+3. Legal Aid Services
+4. Alternative Dispute Resolution (ADR)
+End Note
+207
+210
+215
+218
+221
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 9 ---
+8
+Indian Law For A Common Man
+"Learning is the only thing the mind never exhausts, never fears, and
+never regrets . "
+- Leonardo da Vinci
+
+
+--- PAGE 10 ---
+Indian Law For A Common Man
+9
+CHAPTER 1:
+Why Know the Law
+Understanding the basics of Indian law is essential for every common man, as it
+empowers individuals to know their rights and obligations, enabling them to
+get along with the society.
+This book aims to make Indian law simple and clear for everyone.
+We want people to understand how the law works and its importance.
+As you progress through this book, you will gain insights into the various
+aspects of Indian law, empowering you to make informed decisions and
+become a responsible citizen.
+So, let's embark upon this journey to explore and understand the basics of
+Indian law together.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 11 ---
+10
+Indian Law For A Common Man
+Knowing the law helps:
+●Know your rights and duties: By knowing the law, you understand your
+rights and can protect yourself. You also get to know what duties you
+should perform as a citizen.
+●Make correct choices: Understanding the law helps you make correct
+decisions in life, like in relationships, jobs, making purchases and starting
+businesses.
+●Solve problems: If you know the law, you can solve conflicts.
+●Stay safe from scams: Knowing the rules can protect you from being
+scammed or taken advantage of.
+●Build trust in the legal system: When you understand the law, you see
+how the courts and other legal bodies work to keep things fair.
+●Make you live in harmony: When everyone knows the law, people
+respect each other's rights and solve problems fairly. This helps create a
+more peaceful society.
+In short, knowing the law helps people better their lives, protect their rights,
+and perform their duties. It also helps people become active and responsible
+citizens and makes society more peaceful, letting democracy work well for
+everyone.
+
+
+--- PAGE 12 ---
+Indian Law For A Common Man
+11
+CHAPTER 2:
+A Quick Look at the Indian Legal System
+The main components of the Indian Legal System are:
+1. The Constitution
+2. Origination of Indian Law
+3. Levels of courts
+4. Dual legal system
+5. Federal system of governance
+6. Common law
+7. Criminal and civil law
+8. Legal workers
+9. Other ways to resolve disputes
+1. The Constitution: This is the main law of India. It sets up the government,
+prescribes what it can do, and protects people's rights. All other laws must
+comply with the constitution.
+2. Origination of Indian Law: Indian laws come from many places, like the
+constitution, laws made by Parliament and states, old customs, British common
+law, and previous decisions made by the judges.
+3. Levels of courts: India has different levels of courts - the Supreme Court,
+High Courts, and District and Subordinate Courts. Each court has its own
+jurisdiction, with the Supreme Court being the most powerful and having
+authority over the entire territory of India.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 13 ---
+12
+Indian Law For A Common Man
+4. Dual legal system: India follows a dual legal system with a federal structure,
+where powers are divided between the central and state governments. Both
+levels of government have the authority to enact laws in their respective
+jurisdictions, as specified in the seventh schedule of the constitution.
+5. Federal system of governance: It is a system of government that divides the
+power between a large central government and the local and regional
+government, which the constitution establishes. It comprises three branches:
+the legislative, the executive and the judiciary.
+6. Common law: Also known as judicial precedent or judge-made law. Indian
+law is based on common law, which uses past decisions made by judges to help
+decide cases.
+7. Criminal and civil law: Indian law is divided in two parts
+Criminal law: which deals with offences against the state and society. The
+Indian Penal Code (IPC) and the Code of Criminal Procedure (CrPC) form the
+basis of criminal law.
+Civil law: which governs private disputes between individuals or organisations,
+or individuals and organisations. Civil law covers areas such as contract,
+property, family, and tort law. It is prescribed by the Code of Civil Procedure
+(CPC).
+8. Legal workers: In India, advocates (lawyers), solicitors, and legal teachers are
+called legal workers. The Bar Council of India and State Bar Councils ensure
+they do their jobs well and follow the rules.
+9. Other ways to resolve disputes: India also uses other ways to fix disputes.
+Alternate Dispute Resolution (ADR), which consists of arbitration, mediation,
+conciliation and negotiation. These methods are faster, cheaper, and more
+flexible than approaching the court.
+
+
+--- PAGE 14 ---
+Indian Law For A Common Man
+13
+The Indian legal system is a huge, ever-changing set of rules that helps people
+live peacefully.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 15 ---
+14
+Indian Law For A Common Man
+CHAPTER 3:
+Introduction to the Constitution of India
+In this chapter, we will learn about:
+1. The Preamble
+2. Fundamental Features of the Constitution
+3. Federal Structure
+4. Amendment Process
+History Behind the Constitution
+The Indian Constitution has a long history of many influences. It comes from
+Ancient Hindu texts, Islamic law, British rule, The Government of India Act
+1935, the Indian Independence Movement and the partition. Various features
+have also been taken from the constitutions of other countries like the USA,
+Ireland, etc.
+1. The Preamble
+In this section, we will discuss:
+1. What is the Preamble, and why it is important
+2. Key components of the Preamble
+1. What is the Preamble, and why it is important
+It is an introduction to the Indian Constitution, setting out the fundamental
+principles, values, and objectives that shape the nation's legal system.Often
+called the soul of the constitution, the Preamble reflects the vision of the
+founding fathers and the aspirations of the people of India.
+
+
+--- PAGE 16 ---
+Indian Law For A Common Man
+15
+2. Key Components of the Preamble
+a. Source of Authority
+b. Objectives
+c. Democratic Republic
+d. Date of Adoption
+a. Source of Authority: The phrase "We, the people of India", highlights that
+authority of the Constitution comes from the citizens, and sovereignty
+(supreme power of authority) lies with the people.
+b. Objectives: The Preamble lays out main goals of the constitution, such as:
+1. Justice
+2. Liberty (freedom)
+3. Equality
+4. Fraternity (unity)
+These objectives focus on promoting fairness, individual freedom, an open and
+tolerant society, equal treatment for all, and unity among citizens.
+c. Democratic Republic: The Preamble declares India as a:
+1. Sovereign (independent authority of the state).
+2. Socialist (not discriminant against anyone based on caste, creed, colour,
+sex, religion or language).
+3. Secular (not bound by any particular religion).
+4. Democratic republic (showing the dedication of the country to democracy,
+social, economic and political justice, and religious freedom).
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 17 ---
+16
+Indian Law For A Common Man
+d. Date of Adoption: The Preamble states that the constitution was adopted on
+November 26, 1949, by the Constituent Assembly and came into force on
+January 26, 1950.
+The Preamble is not a rule like the rest of the constitution. Yet, it steers how we
+read the constitution and grasp the backbone of the law.
+It carries the wish of the Indian folk for fairness, equality, and a society that
+brings everyone in. Here, each person has basic rights and pitches in for unity
+and soundness of the whole country.
+
+
+--- PAGE 18 ---
+Indian Law For A Common Man
+17
+2. Fundamental Features of the Constitution
+In this section, we will discuss:
+The Ten Fundamental Features that define the state, its legal system, and
+rights and responsibilities of citizens.
+Key aspects of the Indian Constitution
+1. Lengthiest Written Constitution
+2. Federal Structure
+3. Parliamentary System of Government
+4. Separation of Powers
+5. Fundamental Rights
+6. Directive Principles of State Policy (these are the policy guides)
+7. Fundamental Duties (basic duties)
+8. Secularism
+9. Independent Judiciary
+10. Amendment Procedure.
+1. Lengthiest Written Constitution: The Indian Constitution is the longest
+written constitution globally, with 395 Articles and 12 Schedules at the time of
+its adoption.
+Currently with 448 Articles, 25 parts and 18 Schedules.
+The extensive nature of the constitution reflects India's diversity and the need
+to address various aspects of its governance and rights.
+2. Federal Structure: The constitution establishes a federal system, dividing
+powers between the central and state governments. This structure balances
+the need for a strong central government and the autonomy of the states to
+manage their own affairs.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 19 ---
+18
+Indian Law For A Common Man
+3. Parliamentary System
+of Government: The constitution provides a
+parliamentary system of government with two parts - the Rajya Sabha and the
+Lok Sabha.
+The President is a figurehead on paper, but the real power is with the Prime
+Minister and his cabinet.
+4. Separation of Powers: The constitution splits power between the three parts
+of government: the Legislative, the Executive, and the Judiciary. This split helps
+in keeping checks and balances to protect democracy.
+5. Fundamental Rights: The constitution promises basic rights to all citizens in
+Part III. These rights keep the government from getting too big and helps in
+protecting the personal freedom of the citizens.
+6. Directive Principles of State Policy (these are the policy guides):
+Part IV of the constitution holds the Directive Principles of State Policy.
+These guide the government in framing policies and legislation to ensure social,
+economic and political justice, promote welfare, and protect the environment.
+These are the instructions to the state on governance. They are merely
+suggestive in nature. Hence, they are not binding and cannot be forced in the
+court.
+7. Fundamental Duties (basic duties): The 42nd Constitutional Amendment of
+1976 added Part IV-A to the constitution, deals with Directive Principles of
+State Policy. Additionally, Article 51A, inserted through the same amendment,
+lists the basic duties of Indian citizens.
+These duties remind citizens of their responsibilities towards the country and
+each other.
+
+
+--- PAGE 20 ---
+Indian Law For A Common Man
+19
+8. Secularism: The Indian Constitution upholds secularism, ensuring equal
+treatment and protection for all religions, with the state not favoring any
+particular religion.
+9. Independent
+Judiciary: The constitution establishes an independent
+judiciary, headed by the Supreme Court, to protect the rights of citizens and
+uphold the rule of law.
+The judiciary has the power of judicial review, allowing it to scrutinize the
+constitutionality of legislative and executive actions.
+10. Amendment Procedure: The constitution provides a flexible amendment
+procedure, allowing for changes in response to societal needs. However, the
+basic structure of the constitution, as defined by the Supreme Court, cannot be
+altered through amendments.
+These fundamental features of the Indian Constitution reflect the vision of the
+founding fathers and the aspirations of Indian people for a democratic,
+inclusive, and just society.
+The constitution serves as a living document, guiding progress of the nation
+and providing a robust foundation for individual rights protection and national
+development.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 21 ---
+20
+Indian Law For A Common Man
+3. Federal Structure: Division of Powers
+The constitution splits power between the central government and the state
+governments. Each level of government has its own power and can make laws
+for certain subjects. Powers are divided in 3 categories:
+a. The Federal Structure of Governance in India
+b. Division of Power as per the Seventh Schedule
+c. Residual Power
+a. The Federal Structure of Governance in India
+The Constitution of India establishes a federal system of governance, dividing
+powers and responsibilities between the central (union) government and the
+state governments.
+This division of powers aims to maintain a balance between the need for a
+strong central authority and the autonomy of states to manage their affairs.
+b. Division of Powers as per the Seventh Schedule
+The division of powers between the central and state governments, as outlined
+in the Seventh Schedule of the Constitution, was made into the list mentioned
+below:
+The three lists in the Seventh Schedule are:
+1. Union List
+2. State List
+3. Concurrent List
+1. Union List: The Union List specifies 100 subjects (as of Aug 2023) on which
+only the central government can make laws. These subjects pertain to matters
+of national importance and require uniform laws across the country.
+
+
+--- PAGE 22 ---
+Indian Law For A Common Man
+21
+Union List examples:
+a. Defence
+b. Atomic energy
+c. Foreign affairs
+d. Railways
+e. Banking
+2. State List: The State List consists of 61 subjects (as of Aug 2023) on which
+only the state governments can make laws. These subjects typically relate to
+matters of local or regional importance, where state governments are better
+positioned to address the specific needs of their population.
+State List examples:
+a. Public health
+b. Police
+c. Agriculture
+d. Local government
+e. Land revenue
+3. Concurrent List: The Concurrent List contains 52 subjects (as of Aug 2023) on
+which both the central and state governments can legislate. These subjects
+often involve matters of shared interest, where a combination of national and
+local perspectives is needed.
+Concurrent List examples:
+a. Criminal law
+b. Bankruptcy and insolvency
+c. Marriage and divorce
+d. Education
+In case of a conflict between central and state laws on a subject in the
+concurrent list, the central law prevails.
+However, if a state law is inconsistent with a central law and has received the
+President's assent, the state law will prevail in that state.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 23 ---
+22
+Indian Law For A Common Man
+c. Residual Powers
+Residual powers refer to the power of legislation over subjects that do not fall
+under any of the three lists. As per the constitution, the central government
+holds authority over these residual subjects.
+These are basically those subjects which came into existence after the
+constitution was written.
+Examples: computer software, information technology, and space technology.
+All these subjects came after the constitution was written. Hence, all these
+were added as residuary subjects.
+To sum it up, the Indian Constitution splits power to balance the roles and
+duties of the central and state governments. This federal structure makes
+governance smooth, respects the states different needs and situations, and
+keeps a united national structure.
+
+
+--- PAGE 24 ---
+Indian Law For A Common Man
+23
+4. Amendment Process
+In this section, we will discuss:
+a. Flexibility of the Indian Constitution
+b. Article 368 and Methods of Amending the Constitution
+c. Basic Structure Doctrine
+The constitution can be changed through amendments. Both the Parliament
+and state legislatures can propose changes, but they need a special majority to
+pass the bill.
+This process allows the constitution to adapt to new ideas and needs.
+The Indian Constitution has a rich history and lays down rules for the country's
+government. It balances the needs of different groups and protects the rights
+and freedoms of all the people in India.
+a. Flexibility of the Indian Constitution
+The
+Constitution
+of
+India
+provides a
+flexible amendment process
+to
+accommodate the evolving needs of the country and address new challenges
+that may arise over time. However, it also ensures that the basic structure of
+the constitution is preserved and not altered through amendments.
+b. Article 368: Methods of Amending the Constitution
+The amendment process is outlined in Article 368 of the constitution, which
+provides for two methods of amending the constitution:
+1. Ordinary Amendment Process
+2. Special Amendment Process
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 25 ---
+24
+Indian Law For A Common Man
+1. Ordinary Amendment Process
+a. Introduction of a Bill
+b. Approval by both Houses
+c. Presidential assent
+2. Special Amendment Process
+a. Introduction of a Bill
+b. Approval by both Houses
+c. Ratification by States
+d. Presidential assent
+c. Basic Structure Doctrine: (strict rule that cannot be erased)
+The basic structure doctrine is a legal principle that says that the basic
+principles of the constitution cannot be erased or changed. It is meant to
+protect the core principles and values of the constitution.
+Imagine, a constitution is like the rules of a game that a country plays. The
+basic structure doctrine is like a super important rule that says - certain very
+important parts of the rules cannot be changed, no matter what.
+These parts are like the heart and soul of the game, and they make sure the
+game stays fair and fun for everyone. So, even if the people who make the rules
+want to change them, they cannot change these super important parts because
+it protects the essence of the game.
+The Supreme Court made this rule in the famous case, ‘Kesavananda Bharati v.
+State of Kerala’ in 1973.
+The court declared that aspects like basic rights, fairness, democracy, and a fair
+court system are so important that no one can change them. Not even the
+government can do this through any kind of amendment.
+The amendment process of the constitution of India strikes a balance between
+flexibility and stability. It allows for the adaptation of the constitution to
+changing circumstances while ensuring that its core principles remain intact,
+thus providing a strong and enduring foundation for the nation's governance.
+
+
+--- PAGE 26 ---
+Indian Law For A Common Man
+25
+CHAPTER 4:
+Fundamental Rights and Duties
+In this chapter, you will learn about:
+1. Fundamental Rights
+2. Fundamental Duties
+1. Fundamental Rights
+Six fundamental rights that anchor the Constitution of India are:
+1. Right to Equality
+2. Right to Freedom
+3. Right against exploitation
+4. Right to Freedom of Religion
+5. Cultural and Educational Rights
+6. Right to Constitutional Remedies
+1. Right to Equality
+Right to Equality (Articles 14–18)
+Right to equality means that everyone should be treated fairly by the rules, no
+matter who they are. This rule stops unfair treatment and helps create a
+society where everyone gets a fair chance. This right also lets people stand up
+against unfair practices and ask for help from the law when needed. Some
+aspects of Right to Equality are:
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 27 ---
+26
+Indian Law For A Common Man
+a.
+Equality Before the Law (Articles 14)
+b.
+Prohibition of Discrimination (Article 15)
+c.
+Equality of Opportunity (Article 16)
+d.
+Abolition of Untouchability (Article 17)
+e.
+Abolition of Titles (Article 18)
+a. Equality Before the Law (Articles 14): This law ensures that all citizens are
+treated equally before the law. It prohibits discrimination based on race,
+religion, caste, sex, or place of birth.
+b. Prohibition of Discrimination (Article 15): This article protects every
+individual from state discrimination based on religion, race, caste, sex, or place
+of birth. It upholds equal access to public spaces and opportunities irrespective
+of personal background.
+However, it allows the state to introduce special provisions for women,
+children, scheduled castes, scheduled tribes, and other backward classes while
+recognizing the need to rectify historical inequalities.
+c.
+Equality of Opportunity
+(Article
+16): This article guarantees equal
+opportunities in matters related to state employment or other appointments,
+prohibiting discrimination on several grounds. However, it permits the state to
+reserve opportunities for Scheduled Castes (SCs), Scheduled Tribes (STs) and
+Other Backward Classes (OBCs), Economic Weaker Section (EWS), considering
+historical injustices.
+d. Abolition of Untouchability (Article 17): This article ends the old and unfair
+practice of untouchability, which treats people from certain castes unfairly. This
+unfair treatment is now against the law and can be punished under the
+Untouchability (Offences) Act 1955.
+
+
+--- PAGE 28 ---
+Indian Law For A Common Man
+27
+e. Abolition of Titles (Article 18): This article states that the government
+cannot give any titles except for those related to the military or education. The
+goal is to create a society where everyone is equal, without any special
+privileges linked to the titles that people inherit. It also does not allow Indian
+citizens to accept any title from a foreign country without the President’s
+approval.
+The Right to Equality is a fundamental part of the Constitution of India. It
+shows India's dedication to providing justice in every area - social, economic, or
+political.
+This right ensures everyone is treated equally under the law, does not allow
+any form of discrimination, and addresses inequalities from past. The Right to
+Equality aims to create a society where everyone is treated fairly, included in
+the country's progress, and has equal opportunities.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 29 ---
+28
+Indian Law For A Common Man
+2. Right to Freedom
+Right to Freedom (Articles 19-22): The Right to Freedom guarantees a set of
+fundamental liberties to Indian citizens, including freedom of speech and
+expression, assembly, association, movement, residence, and profession. It also
+provides for the protection of individuals against arbitrary (no evidence) arrest
+and detention. Constituents of Right to Freedom are:
+a. Freedom of Speech and Expression (Article 19(1)(a))
+b. Freedom of Assembly (Article 19(1)(b))
+c. Freedom of Association (Article 19(1)(c))
+d. Freedom of Movement (Article 19(1)(d) and (e))
+e. Freedom of Residence (Article 19(1)(e))
+f.
+Freedom of Profession (Article 19(1)(g))
+g.
+Protection against Arbitrary Arrest and Detention (Articles 20-22)
+a. Freedom of Speech and Expression (Article 19(1)(a)): This sub-clause
+guarantees the freedom of speech and expression, allowing citizens to express
+their opinions and ideas freely. This right is essential for the functioning of a
+healthy democracy and enables individuals to participate in public debates and
+decision-making.
+b. Freedom of Assembly (Article 19(1)(b)): This sub-clause guarantees the right
+to assemble peacefully without arms. This right enables citizens to gather and
+express their collective views on matters of public concern, subject to
+reasonable restrictions in the interest of public order and national security.
+c. Freedom of Association (Article 19(1)(c)): This sub-clause guarantees the
+right to form associations, unions, or cooperatives. This right empowers citizens
+to join together to pursue common goals and advocate for their collective
+interests.
+
+
+--- PAGE 30 ---
+Indian Law For A Common Man
+29
+d. Freedom of Movement (Article 19(1)(d) and (e)): This sub-clause guarantees
+the right to move freely throughout the territory of India and to reside and
+settle in any part of the country. These rights allow the citizens to choose
+where they live and work, facilitating social and economic mobility and
+integration.
+e. Freedom of Residence (Article 19(1)(e)): This sub-clause guarantees the
+right to reside and settle in any part of India. This right enables citizens to
+choose their place of residence and occupation, promoting social and
+economic mobility.
+f. Freedom of Profession (Article 19(1)(g)): This sub-clause guarantees the right
+to practice any profession, trade, or business. This right promotes economic
+freedom and
+encourages
+entrepreneurship and
+innovation, subject to
+reasonable restrictions in the interest of public health, safety, and morality.
+g. Protection against Arbitrary Arrest and Detention (Articles 20-22): Articles
+20-22 in the Indian Constitution mention that people cannot be arrested or
+detained without proper reason or evidence. These articles ensure that people
+do not lose their freedom without the correct legal procedures being followed.
+They also protect people's rights when they are arrested, detained, or on trial.
+They include the right to know why one is being arrested, the right to have a
+lawyer, the right to be taken to a judge within 24 hours, and the guarantee that
+the person is not punished twice for the same crime or forced to confess to a
+crime.
+The Right to Freedom enshrines the core values of individual liberty and
+personal autonomy that promote a democratic society. By guaranteeing a wide
+range of fundamental freedoms and protecting citizens against arbitrary state
+action, the Right to Freedom empowers individuals to pursue their aspirations
+and contribute to the progress of the nation.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 31 ---
+30
+Indian Law For A Common Man
+3. Right Against Exploitation
+Right Against Exploitation (Articles 23-24): The Right against Exploitation aims
+to protect vulnerable individuals from various forms of exploitation, including
+forced labour, human trafficking, and child labour. Rights include:
+a.
+Prohibition of Forced Labour and Human Trafficking (Article 23)
+b.
+Prohibition of Child Labour (Article 24)
+a. Prohibition of Forced Labour and Human Trafficking (Article 23): This
+article prohibits forced labour, human trafficking, and other forms of forced or
+bonded labour, especially the exploitation of women and those of backward
+classes. This provision seeks to prevent the exploitation of vulnerable
+individuals and protect their dignity and freedom.
+b. Prohibition of Child Labour (Article 24): This article prohibits the
+employment of children below the age of 14 years in unsafe work
+environment, such as factories and mines. This provision aims to protect
+children from exploitation, promote their welfare and health, and ensure their
+right to education.
+The Right Against Exploitation underscores the importance of social justice and
+human dignity in the Indian Constitution. By protecting vulnerable individuals
+from exploitation, this right seeks to create a society that is free from abuse,
+and ensures equal opportunities for all citizens.
+
+
+--- PAGE 32 ---
+Indian Law For A Common Man
+31
+4. Right to Freedom of Religion
+Right to Freedom of Religion (Articles 25-28): The Right to Freedom of Religion
+guarantees the freedom of conscience and the right to profess, practice, and
+propagate religion.
+It also protects the rights of religious and linguistic
+minorities and ensures that no citizen is subjected to religious instruction or
+worship against their will. It includes:
+a. Freedom of Conscience and Free Profession, Practice, and Propagation of
+Religion (Article 25)
+b. Freedom to Manage Religious Affairs (Article 26)
+c.
+Freedom from Payment of Taxes for Promotion of Religion (Article 27)
+d.
+Prohibition of Religious Instruction in State-Funded Educational
+Institutions (Article 28).
+a. Freedom of Conscience and Free Profession, Practice, and Propagation of
+Religion (Article 25): Article 25 ensures that every citizen has the freedom to
+follow their beliefs and openly practice, share, and spread their religion.
+However, this must be done in a way that does not disturb public peace, go
+against moral standards, or harm public health. This right ensures that every
+person can choose and follow their religion freely, promoting acceptance and
+diversity in terms of religious beliefs.
+b. Freedom to Manage Religious Affairs (Article 26): This article assures the
+right of religious groups to handle their own matters related to religion as long
+as they do not disrupt public peace, contradict ethical norms, or endanger
+health.
+This right emphasizes the value of religious independence and allows religious
+communities to maintain their distinct traditions and practices.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 33 ---
+32
+Indian Law For A Common Man
+c. Freedom from Payment of Taxes for Promotion of Religion (Article 27): No
+discrimination based on religion. This article stops the government from
+imposing any tax that is purposely designed to support or sustain any specific
+religion. This ensures that public money is not used to give preference to any
+religious group over others.
+d.
+Prohibition
+of
+Religious
+Instruction
+in
+State-Funded
+Educational
+Institutions (Article 28): This article prohibits religious teaching in schools that
+the government entirely funds. This helps ensure that public education stays
+non-religious and open to everyone.
+The Right to Freedom of Religion is an important part of India's democratic
+system, where all religions are respected equally. This right protects everyone's
+freedom to follow their religion and stops the government from interfering in
+religious issues. This helps different religious communities in India live together
+harmoniously and add to the richness of the society.
+
+
+--- PAGE 34 ---
+Indian Law For A Common Man
+33
+5. Cultural and Educational Rights
+Cultural and Educational Rights (Articles 29-30): Cultural and Educational
+Rights safeguard the rights of different languages and religious groups to
+maintain their distinct cultures, languages, and writings. They also have the
+right to create and manage their own educational institutions as they see fit.
+Rights included are:
+a.
+Protection of Interests of Minorities (Article 29)
+b.
+Right to Establish and Administer Educational Institutions (Article 30)
+a. Protection of Interests of Minorities (Article 29):
+Article 29(1) recognizes the rights of groups of citizens who have their own
+unique language, script, or culture, ensuring they can protect and keep these
+alive. This reflects the commitment of India to celebrate its diverse cultures and
+preserve its rich heritage.
+Article 29(2) prevents any unfair treatment in education. It states that no
+Indian citizen can be denied admission to state-funded schools based on their
+race, religion, or language. The goal here is to ensure that everyone has equal
+access to education regardless of their background.
+b. Right to Establish and Administer Educational Institutions (Article 30):
+Article 30 allows religious and linguistic minorities to create and manage their
+own educational institutions according to their choice, subject to some sensible
+rules. This right supports educational freedom and diversity, ensuring that
+minority groups can provide education that aligns with their cultural and
+religious beliefs.
+Article 30(1) ensures fairness by requesting the state to treat schools run by
+minority groups in the same way they treat other schools regarding assistance
+and benefits.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 35 ---
+34
+Indian Law For A Common Man
+Article 30(2) enhances this protection by preventing the state from seizing
+their property without paying fair compensation.
+Cultural and Educational Rights protect and promote India's cultural and
+linguistic diversity. By safeguarding the rights of minority groups to maintain
+their unique cultural identities and manage their educational institutions, these
+rights help enrich the nation's multicultural nature.
+
+
+--- PAGE 36 ---
+Indian Law For A Common Man
+35
+6. Right to Constitutional Remedies
+The Right to Constitutional Remedies is an essential right in Article 32 of the
+Indian Constitution. It is important because it allows people to ask the Supreme
+Court for help when their fundamental rights are violated. This right protects
+citizens from unfair actions by the government or others. It includes:
+a.
+Enforcement of Fundamental Rights (Article 32)
+b. Suspension of the Right to Constitutional Remedies
+a. Enforcement of Fundamental Rights (Article 32): Making sure fundamental
+rights are respected, Article 32 allows everyone to go to the Supreme Court if
+their fundamental rights are violated or at risk. They can ask the court for help
+by filing a writ petition.
+Writ: It is a formal written request made to a court, asking for a specific judicial
+action, often relating to safeguarding the rights of individuals.
+Types of Writs: The constitution describes five writs that the Supreme Court
+under Article 32 and High Courts under Article 226, can use to protect
+fundamental rights:
+1. Habeas Corpus (Latin - You have the body)
+2. Mandamus (Latin - We command)
+3. Prohibition (Latin - Forbidding)
+4. Certiorari (Latin - To be made certain)
+5. Quo Warranto (Latin - By what warrant)
+1. Habeas Corpus (Latin - You have the body): This writ is used when someone
+is held without proper legal reasons. The court asks the person holding them to
+explain why they are being held.
+2. Mandamus (Latin - We command): This writ tells a public official or
+authority to do their job if they have not done it.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 37 ---
+36
+Indian Law For A Common Man
+3. Prohibition (Latin - Forbidding): This writ stops a lower court or tribunal
+from making decisions it is not allowed to make.
+4. Certiorari (Latin - To be made certain): This writ cancels a decision made by
+a lower court or tribunal if it overrides its powers or does not follow the law.
+5. Quo Warranto (Latin - By what warrant): This writ stops someone from
+holding a public position if they do not have the right to do so.
+b. Suspension of the Right to Constitutional Remedies: When can the right to
+constitutional remedies be stopped?
+This right can be stopped during a national emergency declared under Article
+352 of the constitution. However, the right to ask the courts for help when life
+and personal freedom are at risk cannot be stopped (under Article 21).
+The
+Right to Constitutional Remedies
+is a
+critical part of the Indian
+Constitution. It lets people ask for legal help when their fundamental rights are
+violated and ensures the government follows the law. By giving citizens a way
+to protect their rights, Article 32 supports the values of justice, freedom, and
+equality enshrined in the constitution.
+Fundamental Rights are essential rights enshrined in Part III of the Constitution
+of India, which guarantees civil liberty (freedom) and protects individuals from
+misuse of the power by government.
+These rights are the cornerstone of democracy and individual freedom in the
+country. They serve as a check on the power of the government and ensure
+that every citizen is treated with dignity and equality.
+
+
+--- PAGE 38 ---
+Indian Law For A Common Man
+37
+2. Fundamental Duties
+Fundamental Duties are important responsibilities of every citizen of India.
+They were added to the Indian Constitution in 1976. These duties help remind
+people to care about the country and each other. They also encourage
+everyone to help make the country better.
+Fundamental Duties:
+1. Respect the Constitution, National Flag, and National Anthem.
+2. Follow the good ideas that helped India become free.
+3. Protect the unity and safety of India.
+4. Defend the country and help the country when needed.
+5. Get along with all people in India, irrespective of their differences.
+6. Stand up against practices that harm women's dignity.
+7. Value and preserve India's diverse culture and history.
+8. Protect the environment and be kind to animals.
+9. Think scientifically and be curious about learning new things.
+10. Take care of public property, and do not use violence.
+11. Always try to do your best and help the country succeed.
+The Fundamental Duties may not be legally required, but they are essential in
+encouraging a feeling of civic duty and national pride among the people of
+India. By following these duties, people can help build a fair, balanced, and
+forward-looking society that maintains the values of the constitution.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 39 ---
+38
+Indian Law For A Common Man
+CHAPTER 5:
+The Judicial System of India
+In this chapter, you will learn about:
+1. Structure of the Judiciary
+2. Supreme Court
+3. High Courts
+4. District and Subordinate Courts
+5. Judicial Independence
+6. Public Interest Litigation
+1. Structure of the Judiciary
+The Indian judiciary is an independent and integrated system that plays a vital
+role in upholding the rule of law and protecting the fundamental rights of
+citizens.
+It has three levels: the Supreme Court, High Courts, and Lower Courts. It is the
+job of the judiciary to understand and explain the constitution whenever
+needed, resolve conflicts, and check that the government is adhering to the
+constitution.
+This three-tiered structure helps the judicial system to work smoothly and
+offers a strong way for people to enforce their rights and settle disagreements.
+This hierarchy allows for appeals in case of unsatisfactory judgement.
+
+
+--- PAGE 40 ---
+Indian Law For A Common Man
+39
+2. Supreme Court
+The Supreme Court is established under Article 124 of the constitution and is
+the highest court in India, also known as the APEX (Highest) Judicial body.
+It helps maintain the rule of law and protect the fundamental rights of the
+citizens. The Supreme Court is situated in New Delhi. It has a Chief Justice and
+up to 33 other judges. The court has three main powers: original, appellate,
+and advisory.
+1. Original Jurisdiction
+2. Appellate Jurisdiction
+3. Advisory Jurisdiction
+1. Original Jurisdiction: The Supreme Court handles disputes between the
+central government and states or between two or more states. Additionally,
+the Supreme Court has the power to issue writs to enforce fundamental rights
+under Article 32 of the constitution.
+2. Appellate Jurisdiction: The Supreme Court hears appeals against judgments
+rendered by the High Courts in civil, criminal, and constitutional matters. There
+are different categories for appeals: constitutional matters, civil matters, and
+criminal matters.
+a.
+Issues about the Constitution
+b. Issues in Civil Cases
+c.
+Issues in Criminal Cases
+a. Issues about the Constitution: When there are serious legal questions about
+understanding the constitution, those issues can be appealed to the Supreme
+Court.
+b. Issues in Civil Cases: If a High Court confirms that a civil case includes an
+important legal question or needs clarification of the constitution, the case can
+be appealed to the Supreme Court.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 41 ---
+40
+Indian Law For A Common Man
+c. Issues in Criminal Cases : Criminal cases can be appealed to the Supreme
+Court when the
+High
+Court
+has
+declared the
+accused
+person
+not
+guilty,
+changing the
+guilty
+verdict
+of
+lower
+court,
+or when
+challenging
+death
+sentences .
+Additionally, the Supreme Court acts as the head of the advisory jurisdiction
+and guardian of the constitution . It also handles Public Interest Litigations .
+3.Advisory Jurisdiction : Under Article 143, the President of India can ask the
+Supreme Court for advice on important public issues or legal questions about
+the constitution . However, this advice is not legally binding. The President can
+decide these issues at his discretion without being bound by the advice of the
+CJI (Chief Justice of India ) , the head of the Supreme Court.
+a .
+Guardian of the Constitution
+b. Public Interest Litigation (PIL)
+a. Guardian of the Constitution : The Supreme Court ensures the government
+follows the constitution . It can declare laws or actions unconstitutional if they
+go against the constitution .
+b. Public Interest Litigation
+( PIL) : The Supreme Court lets people and groups.
+file Public Interest Litigations on behalf of those whose fundamental rights
+have been violated or neglected . PILS help promote human rights and social
+justice in India .
+The Supreme Court of India plays an indispensable role in maintaining the rule
+of law, upholding the constitution , and safeguarding the fundamental rights of
+citizens . As the highest judicial authority in the country, the decisions of the
+Supreme Court
+have
+a
+profound
+impact on the
+lives
+of citizens and the
+functioning of Indian democracy.
+
+
+--- PAGE 42 ---
+Indian Law For A Common Man
+41
+3. High Courts
+High Courts are the top courts in each state and every union territory of India.
+They handle civil, criminal, and constitutional cases in their areas. High Courts
+ensure laws are followed, justice is served fairly, and rights of people are
+protected. Each High Court has a Chief Justice appointed by the President of
+India.
+Each state has one High Court. However, Haryana and Punjab share the same
+High Court (as of August 2023).
+Few powers include:
+1. Jurisdiction and Powers
+2. Writ Jurisdiction
+3. Transfer of Cases
+4. Rulemaking Powers
+5. Judicial Review
+1. Jurisdiction and Powers: High Courts have original, appellate, and
+supervisory powers.
+a. Original jurisdiction
+b. Appellate Jurisdiction
+c. Supervisory Jurisdiction
+a. Original Jurisdiction: High Courts handle cases involving fundamental rights
+and can issue writs under Article 226 of the constitution.
+b.Appellate Jurisdiction: High Courts hear appeals from subordinate courts in
+civil and criminal cases, checking for correctness of decisions by lower courts.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 43 ---
+42
+Indian Law For A Common Man
+c. Supervisory Jurisdiction: High Courts supervise subordinate courts in their
+areas, ensuring justice is properly administered.
+2. Writ Jurisdiction: High Courts can issue writs under Article 226 to enforce
+fundamental and legal rights. They can issue writs like:
+a. Habeas Corpus
+b. Mandamus
+c. Prohibition
+d. Certiorari
+e. Quo Warranto
+3. Transfer of Cases: High Courts can transfer cases between subordinate
+courts for reasons like justice or convenience.
+4. Rulemaking Powers: High Courts make rules and regulations for subordinate
+courts in their jurisdiction, covering aspects like court procedures and case
+management.
+5. Judicial Review: High Courts can examine if state laws and actions are
+constitutional.
+High Courts are important in the Indian judicial system, ensuring justice,
+protecting rights, and upholding the constitution. They help maintain a stable
+and honest democracy in India.
+
+
+--- PAGE 44 ---
+Indian Law For A Common Man
+43
+4. District and Subordinate Courts
+District courts are the bedrock of India's justice system. They take on civil and
+criminal cases, bringing justice to the common man. They work under their
+respective High Courts and follow central and state-made laws.
+1. Civil Courts
+2. Criminal Courts
+3. Family Courts
+4. Special Courts and Tribunals
+1. Civil Courts: They handle property, contract, and family issues. They are
+ranked by case value. The court of District Judge is the highest, hearing lower
+court appeals and high value disputes. Courts of Senior and Junior Civil Judge
+handle cases of moderate to lower values.
+Case value shows importance or complication of a legal case, deciding its
+importance.
+In Indian courts, "case value" refers to the monetary amount in dispute or
+sought as compensation in a legal case. It determines the court's jurisdiction,
+as different courts handle cases based on varying monetary thresholds. The
+specific rules vary by state, so it's crucial to consult local laws and court rules
+for clarity.
+a. Court of District Judge
+b. Court of Senior Civil Judge
+c. Court of Junior Civil Judge
+a. Court of District Judge: This is the highest civil court at the district level,
+presided over by the District Judge. It hears appeals from the lower courts and
+has original jurisdiction over high-value civil cases.
+b. Court of Senior Civil Judge: This court handles civil cases of moderate value
+and is presided over by the Senior Civil Judge.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 45 ---
+44
+Indian Law For A Common Man
+c. Court of Junior Civil Judge: This court deals with civil cases of lower value
+and is presided over by the Junior Civil Judge.
+2. Criminal Courts: They manage offences against the state and people,
+categorized by the severity of crimes. The Court of Sessions, led by the Sessions
+Judge, deals with severe crimes.
+The Judicial Magistrates of the First and Second Classes oversee crimes with up
+to three and one year of imprisonment, respectively.
+a. Court of Sessions
+b. Judicial Magistrate of First Class
+c. Judicial Magistrate of Second Class
+a. Court of Sessions: The Court of Sessions stands as the district's pinnacle of
+criminal justice, overseen by the Sessions Judge. It tries grave offences, those
+drawing over seven years in prison or death.
+b. Judicial Magistrate of First Class: These courts, led by a Judicial Magistrate
+of First Class, manage crimes carrying up to three years of imprisonment.
+c. Judicial Magistrate of Second Class: These courts grapple with lesser crimes,
+those worth up to a year behind bars, under the watch of the Judicial
+Magistrate of Second Class.
+3. Family Courts: Born from the 1984 Family Courts Act, these courts tackle
+family disputes like marriage, divorce, custody, and property. They aim for quick
+and informal resolutions, favouring conciliation and settlement.
+4.Special Courts and Tribunals: They break from the common civil and criminal
+court ranks. They handle unique disputes like debts, consumer grievances, and
+administrative matters. Examples - Debt Recovery Tribunals, Consumer Dispute
+Redressal Forums, and the Central Administrative Tribunal.
+
+
+--- PAGE 46 ---
+Indian Law For A Common Man
+45
+The above district courts bring justice within reach of the everyday citizen. By
+shouldering most civil and criminal cases, they strengthen the backbone of
+India's judicial system.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 47 ---
+46
+Indian Law For A Common Man
+5. Judicial Independence
+Judicial independence means the judiciary is free from pressure or influence
+from the government or other forces. The constitution supports judicial
+independence in India, ensuring that laws are followed, rights are protected,
+and justice is served fairly.
+Why Judicial Independence Matters
+1. Protecting Rights: An independent judiciary protects rights of people and
+ensures the government follows the constitution.
+2. Rule of Law: Judicial independence supports the rule of law, treating
+everyone equally under the law.
+3. Separation of Powers: It helps maintain the separation of powers between
+the executive, legislative, and judicial branches.
+4. Public Confidence: An independent judiciary builds trust in the legal system
+by showing that disputes are resolved fairly and without bias.
+Ways to Ensure Judicial Independence
+1. Appointment Process: Judges are appointed by the President of India with
+inputs from the Chief Justice of India and other senior judges, making it a fair
+and merit based selection process.
+2. Security of Tenure: Judges have job security until they retire, 65 years for
+Supreme Court judges, and 62 years for High Court judges.
+3. Removal Process: Judges can only be removed on grounds of misbehaviour
+or incapacity. It is done through a strict process called impeachment, which
+involves members of both the houses of the Parliament.
+4. Salaries and Allowances: Salaries, allowances, and pensions of judges are
+set by the respective courts and cannot be reduced while they are in office,
+protecting them from financial pressure.
+
+
+--- PAGE 48 ---
+Indian Law For A Common Man
+47
+5. Prohibition on Post-Retirement Appointments: Judges cannot practice in
+any court or before any authority in India after retirement, reducing conflicts of
+interest or outside influence.
+Judicial independence is vital in India's legal system, keeping the judiciary fair
+and unbiased. By protecting judicial independence, the constitution safeguards
+citizens’ rights, upholds the rule of law, and builds trust in India's democratic
+institutions.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
+--- PAGE 49 ---
+48
+Indian Law For A Common Man
+6. Public Interest Litigation (PIL)
+Public Interest Litigation (PIL) is a legal tool that lets people and organizations
+seek justice for matters affecting the public. PIL focuses on issues impacting
+society, particularly those who are underprivileged or marginalized. It has
+played a vital role in promoting social justice, protecting human rights, and
+preserving the environment in India.
+Further topics covered in this section are:
+1. What is a PIL
+2. Evolution of PIL in India
+3. Why PIL Matters
+4. Impact of PIL
+1. What is a PIL
+PIL involves legal action taken by a person, group, or organization to defend the
+rights and interests of the public. Unlike traditional lawsuits, PIL addresses
+issues impacting society, allowing courts to step in even if the person bringing
+the case is not directly affected.
+2. Evolution of PIL in India
+PIL started in India in the late 1970s and early 1980s, with the Supreme Court,
+led by Chief Justice P.N. Bhagwati, playing a crucial role in its development. The
+judiciary took a more active approach, making it easier for people and
+organizations to bring cases related to the public interest.
+3. Why PIL Matters
+a. Access to Justice: PIL makes the legal system more accessible to
+underprivileged and marginalized people who may not have the resources to
+approach the courts.
+
+
+--- PAGE 50 ---
+Indian Law For A Common Man
+49
+b. Social Justice: PIL aids in fighting against social injustice such as
+discrimination, labour rights, environmental problems, and human rights
+violations, promoting fairness and equality.
+c. Judicial Activism: PIL encourages the judiciary to take a more active role in
+addressing public interest issues and holding the government and other parties
+accountable, when needed.
+d. Awareness and Participation: PIL raises public awareness about essential
+issues and motivates civil society to participate in the legal process.
+4. Impact of PIL
+PIL has led to significant judgments and policy changes that have improved the
+lives of many people. Some examples include:
+a. M.C. Mehta v. Union of India (1987): The Supreme Court ordered the
+closure of polluting industries near the Taj Mahal, protecting the monument.
+b. Vishaka v. State of Rajasthan (1997): This case resulted in guidelines for
+addressing workplace sexual harassment, which later became part of a 2013
+law.
+c. People's Union for Civil Liberties v. Union of India (2001): The Supreme
+Court directed the government to implement measures to address starvation
+and malnutrition, leading to the Right to Food.
+Public Interest Litigation has transformed the Indian legal landscape by
+empowering the courts to address major societal, environmental, and human
+rights problems. This tool has been vital in advocating for social fairness,
+defending the rights of disadvantaged groups, and holding the government
+responsible for its actions.
+A simple Law guide for every Indian
+Sree Krishna Seelam
+
+
