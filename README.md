@@ -1,4 +1,4 @@
-# ⚖️ Dharma AI — Hybrid Legal AI Chatbot
+#  Hybrid Legal AI Chatbot
 
 A **production-ready, fully local RAG (Retrieval-Augmented Generation) chatbot** for answering Indian legal questions. It combines semantic vector search, keyword search, and a knowledge graph to retrieve precise legal context, then uses a local LLM to generate conversational, grounded answers.
 
